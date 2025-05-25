@@ -7,7 +7,7 @@ Bu proje, bir makine öğrenimi uygulamasıdır. Amacı, verilen verilerle ev fi
 
 ## 📊 Kullanılan Veri Seti
 
-Kaggle'dan alınmış [Istanbul Rent Flat Data]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/mgunerengineer/istanbul-rent-flat-data)) benzeri bir veri seti kullanılmıştır. Verideki bazı sütunlar:
+Kaggle'dan alınmış [Istanbul Rent Flat Data]((https://www.kaggle.com/datasets/mgunerengineer/istanbul-rent-flat-data)) benzeri bir veri seti kullanılmıştır. Verideki bazı sütunlar:
 
 - `Title`: İlan başlığı
 - `Area`: Dairenin metrekare cinsinden büyüklüğü
