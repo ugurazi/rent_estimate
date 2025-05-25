@@ -55,7 +55,7 @@ Her iki model ayrı ayrı eğitilmiş ve test edilmiştir. Performans ölçütle
 
 ## 📁 Proje Dosyaları
 
-- `ugurzi_kira_tahmin.ipynb.ipynb`: Tüm veri işleme, modelleme ve değerlendirme adımlarını içeren Jupyter defteri
+- `ugurzi_kira_tahmin.ipynb`: Tüm veri işleme, modelleme ve değerlendirme adımlarını içeren Jupyter defteri
 - `istanbul_rent_data/`: Veri seti dosyalarının bulunduğu klasör (CSV formatında)
 - `README.md`: Proje tanımı
 
